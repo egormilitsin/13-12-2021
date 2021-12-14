@@ -1,5 +1,6 @@
 from tkinter import *
-from Ivan import clearclicks
+
+
 import addclick
 
 tk = Tk()
@@ -12,7 +13,7 @@ tk["bg"]="yellow"
 def ady():
     addclick.addclick(label,btn1)
 def cleary():
-    clearclicks.clearclicks(label,btn1)
+    Ivan.clearclicks(label,btn1)
 
 
 

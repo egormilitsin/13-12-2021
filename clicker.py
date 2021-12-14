@@ -1,8 +1,7 @@
 from tkinter import *
-
+import Ivan
 
 import addclick
-
 tk = Tk()
 tk.title('Clicker')
 tk.geometry("800x600")

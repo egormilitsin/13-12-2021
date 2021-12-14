@@ -1,6 +1,6 @@
 from tkinter import *
 import addclick
-import clearclicks
+import Ivan
 
 tk = Tk()
 tk.title('Clicker')
